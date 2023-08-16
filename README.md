@@ -1,2 +1,2 @@
 # Spaces301
-Sitio de prueva de curso Espacio de informacion
+Sitio de prueba de curso Espacio de informacion
